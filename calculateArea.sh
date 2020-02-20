@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #function to calculate area of square
 squareArea(){
 	#input the side value of square on the same line as prompt
